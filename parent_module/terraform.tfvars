@@ -1,4 +1,6 @@
 resource_group = {
+  ##new confilict has to solve very esier way with out issue 
+
 
   rg_1 = {
     name     = "Rg_moon"
