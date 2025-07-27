@@ -1,7 +1,6 @@
 resource_group = {
-  ## Resource Group Configuration
-  ## This section defines the resource groups used in the deployment.
-  ###conflict creation 
+  ##new confilict has to solve very esier way with out issue 
+
 
   rg_1 = {
     name     = "Rg_moon"
