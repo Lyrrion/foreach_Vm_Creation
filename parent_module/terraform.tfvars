@@ -1,4 +1,6 @@
 resource_group = {
+  ## Resource Group Configuration
+  ## This section defines the resource groups used in the deployment.
   ###conflict creation 
 
   rg_1 = {
