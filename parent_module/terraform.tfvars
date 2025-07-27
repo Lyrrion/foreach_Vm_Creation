@@ -1,5 +1,5 @@
 resource_group = {
-
+##All resources have been created in this resource group
   rg_1 = {
     name     = "Rg_moon"
     location = "East US"
