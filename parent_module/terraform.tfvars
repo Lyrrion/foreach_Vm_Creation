@@ -1,4 +1,5 @@
 resource_group = {
+  ###conflict creation 
 
   rg_1 = {
     name     = "Rg_moon"
